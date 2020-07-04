@@ -271,6 +271,7 @@ class SourceGenerator {
                  "lproj",
                  "xcfilelist",
                  "apns",
+                 "a"
                  "pch":
                 return nil
             default:
